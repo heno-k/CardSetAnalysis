@@ -1,0 +1,7 @@
+.vs/
+CardSetAnalysis.pyproj
+CardSetAnalysis.sln
+__pycache__/*
+DraftDecks/__pycache__/*
+
+
